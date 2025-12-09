@@ -1,0 +1,4 @@
+1|Alice Johnson|85.50
+2|Bob Kumar|72.25
+3|Charlie Singh|90.00
+232|kim namjoon|100.00
